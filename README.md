@@ -2,7 +2,7 @@
 
 Tento projekt se zaměřuje na testování API pomocí Postmanu a SQL.
 
-## Popis
+## Description
 
 V tomto projektu provádíme automatizované testování API pomocí Postmanu a ověřujeme správmou funkčnost s databází pomocí SQL.
 
@@ -12,7 +12,7 @@ V tomto projektu provádíme automatizované testování API pomocí Postmanu a 
 - [SQL databáze]
 
 
-## Testy 
+## Tests
 
 - **Test API Endpointu**: Ověření správnosti odpovědí z API.
 - **Test SQL dotazů**: Ověření správnosti dat v databázi.
