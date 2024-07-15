@@ -4,7 +4,7 @@ Tento projekt se zaměřuje na testování API pomocí Postmanu a SQL.
 
 ## Description
 
-V tomto projektu provádíme automatizované testování API pomocí Postmanu a ověřujeme správmou funkčnost s databází pomocí SQL.
+V tomto projektu provádíme automatizované testování API pomocí Postmanu a ověřujeme integraci s databází pomocí SQL.
 
 ## Dependencies 
 
