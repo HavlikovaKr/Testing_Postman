@@ -1,4 +1,4 @@
-# Engeto Testing Projekt 1
+# Testing_Postman
 
 Tento projekt se zaměřuje na testování API pomocí Postmanu a SQL.
 
